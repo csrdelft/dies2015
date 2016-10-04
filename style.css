@@ -61,23 +61,23 @@ section h1, h2.inschrijven {
     text-shadow: 1px 1px 3px #000;
 }
 #welkom {
-    background: url("/assets/layout/plaetjes/dies/2015/spark1.jpg") no-repeat fixed;
+    background: url("plaetjes/spark1.jpg") no-repeat fixed;
 }
 #spark {
-    background: url("/assets/layout/plaetjes/dies/2015/spark2.png") no-repeat fixed;
+    background: url("plaetjes/spark2.png") no-repeat fixed;
 }
 #logo {
-    background: url("/assets/layout/plaetjes/dies/2015/logo.png") no-repeat fixed;
+    background: url("plaetjes/logo.png") no-repeat fixed;
 }
 #etiquette, #programma {
     background-size: cover;
     padding: 70px 0 100px;
 }
 #etiquette {
-    background: url("/assets/layout/plaetjes/dies/2015/etiquette.jpg") no-repeat fixed;
+    background: url("plaetjes/etiquette.jpg") no-repeat fixed;
 }
 #programma {
-    background: url("/assets/layout/plaetjes/dies/2015/programma.jpg") no-repeat fixed;
+    background: url("plaetjes/programma.jpg") no-repeat fixed;
 }
 .colbox {
     width: 90%;
@@ -126,7 +126,7 @@ h2.inschrijven a {
     text-decoration: none;
 }
 #commissie {
-    background: url("/assets/layout/plaetjes/dies/2015/commissie.jpg") no-repeat fixed;
+    background: url("plaetjes/commissie.jpg") no-repeat fixed;
     background-size: 105%;
 }
 #commissie div {
